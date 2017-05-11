@@ -48,7 +48,7 @@ Si hay más gente en nuestro repositorio, para saber si han hecho alguna modifica
 
 Si al hacer un pull queremos saber si hay algo diferente en nuestros archivos, utilizamos el comando “git diff HEAD”.
 
-Para eliminar algún archivo podemos utilizar el comando “git reset hola.txt”.
+Para eliminar algún archivo podemos utilizar el comando “git reset hola.txt”. O también "git rm hola.txt", después creamos el commit con git commit -m "eliminos archivo hola.txt" y lo subimos al repositorio con "git push".
 
 Cuando diferentes personas están trabajando en un mismo proyecto, para que sus archivos no choquen los unos con los otros, se crean diferentes ramas para poder trabajar mejor, así no estropear el trabajo que está realizando el otro. Las ramas se crean mediante el comando “git branch nombre_rama”. Ahora con “git branch” podemos ver las ramas que tenemos en nuestro proyecto, y podemos elegir la rama que queramos con “git checkout nombre_rama”. 
 
