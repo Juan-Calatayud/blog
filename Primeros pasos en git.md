@@ -1,7 +1,7 @@
 
-#PRIMEROS PASOS EN GIT
+# PRIMEROS PASOS EN GIT
 
-#Aprendiendo javascript con "MentoringJS Pretraining Step 2"
+## [Aprendiendo javascript con "MentoringJS Pretraining Step 2"](http://mentoringjs.com/)
 
 El control de versiones.
 
