@@ -5,7 +5,7 @@
 
 El lenguaje en javascript fué creado en 1995 por Brendan Einch. ECMAScript es el nombre de la normal oficial, siendo JavaScript la más conocida de las implementaciones.
 
-INCLUIR SCRIPTS EN PÁGINAS Y ARCHIVOS .JS
+**INCLUIR SCRIPTS EN PÁGINAS Y ARCHIVOS .JS**
 
 Hay al menos tres maneras de incluir código JavaScript en las páginas web.
 * Escribir en el propio documento HTML mediante etiquetas <script type="text/javascript"></script>.
@@ -13,13 +13,13 @@ Hay al menos tres maneras de incluir código JavaScript en las páginas web.
 * Incluir javascript dentro de las propias etiquetas. Es la menos utilizada y tiene la desventaja que ensucia mucho el código.
 
 
-SINTAXIS DE LENGUAJE.
+**SINTAXIS DE LENGUAJE.**
 
 * Es case sensitive, es decir, distingue entre mayúsculas y minúsculas. 
 * Cada sentencia acaba con el carácter (;).
 * Se pueden añadir comentarios. Estos pueden ser de una sola línea (//….) o de un bloque (/*....*/).
 
-VARIABLES
+**VARIABLES**
 
 Las vasrtiables en JavaScipt se utilizan mediante la palabra reservada 'var'. La parabra 'var' solamente se indica al definir por primera vez la variable, y a eso lo llamamos 'declarar' una variable.
 					
@@ -32,7 +32,7 @@ El nombre de una variable también se le conoce como identificador y debe cumpli
 	letras, y los símbolos '$' y '_' a lo sumo.
 	* El primer carácter del identificador no debe ser un número.
 
-TIPOS DE DATOS
+**TIPOS DE DATOS**
 
 * NUMÉRICOS
 	Se usan para contener valores numéricos enteros (llamados integer) o decimales (llamados float).
