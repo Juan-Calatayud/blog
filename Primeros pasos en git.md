@@ -28,8 +28,8 @@ https://git-scm.com/downloads/ y ejecutarlo.
 Esta es la primera vez que utilizamos GIT y nos va a pedir un nombre de usuario y un
 correo electrónico.  Para configurar correctamente estos parámetros el sistema nos sugiere ejecutar los comandos:
 
-	```git config --global user.name "Nuestro nombre"```
-	```git config --global user.email "Nuestro email"```
+git config --global user.name "Nuestro nombre"
+git config --global user.email "Nuestro email"
 
 
 A continuación, vamos a escribir el comando "git status" para ver cual es el estado actual de nuestro proyecto. Luego creamos un fichero, por ejemplo, hola.txt. Se vuelve a comprobar el estado. 
